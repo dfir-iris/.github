@@ -3,7 +3,7 @@ This organisation is all about [DFIR-IRIS](https://dfir-iris.org), a collaborati
 to help incident responders to share technical details during investigations.
 
 Here is an overview of the differents repositories here : 
- - The plateform itself : [iris-web](https://github.com/dfir-iris/iris-web) 
+ - The platform itself : [iris-web](https://github.com/dfir-iris/iris-web) 
  - The Python client : [iris-client](https://github.com/dfir-iris/iris-client)
  - The modules : 
     - Module builder : [iris-skeleton-module](https://github.com/dfir-iris/iris-skeleton-module)
